@@ -10,7 +10,21 @@ As of now, I am trying to implement most of the MAS features, including player q
   
 This mod is available in multiple languages. Now you can select one of few game languages besides English. If you want to add your own language, read [this Wiki aritcle](https://github.com/AlexanDDOS/fae-mod/wiki/Translator-Guidelines).
 
-## Credits  
+## Community
+Discord: https://discord.gg/ZqfEddFKux
+Our Discord, you can find help and support for the mod along with talking about the mod and other stuff here
+
+Twitter: https://twitter.com/JustSayoriDev
+
+## Funding
+Paypal: https://www.paypal.com/pools/c/8yBoa5XAWj
+Would you like to contribute to the mod and the community through funding? 
+Here you can donate to the F&E mod
+Every donation to our paypal is funneled back into the F&E Mod that our team is hard at work bringing to life and making better bit by bit with your help.
+Funds go into paying artists and further developing that good good content you all enjoy. Every penny counts.
+Our goal is 3,000 USD and we hope that you can help us reach it!
+
+## Credits (OLD will be updated after release 5.0)  
 **Project Lead:**  
 Alexander Osipov (aka AlexanDDOS, [GitHub](https://github.com/AlexanDDOS), [Reddit](https://www.reddit.com/user/AlexanDDOS), [VK](https://vk.com/alexanddos), [FB](https://www.facebook.com/alexanDDOS))  
   
@@ -66,8 +80,8 @@ littlebin
 [MarioXenobladefan614](https://www.reddit.com/user/MarioXenobladefan614)  
 *Report bugs on [Issues](https://github.com/AlexanDDOS/fae-mod/issues) or your feedback if you want to see you here*  
   
-**Sponsors:**  
-*Comming soon*  
+**Sponsors:**
+Clifford - $500 Starting funds
   
 **Special Thanks**:  
 [Team Salvato](http://teamsalvato.com) and  
