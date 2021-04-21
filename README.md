@@ -12,12 +12,14 @@ This mod is available in multiple languages. Now you can select one of few game 
 
 ## Community
 Discord: https://discord.gg/ZqfEddFKux
+
 Our Discord, you can find help and support for the mod along with talking about the mod and other stuff here
 
 Twitter: https://twitter.com/JustSayoriDev
 
 ## Funding
 Paypal: https://www.paypal.com/pools/c/8yBoa5XAWj
+
 Would you like to contribute to the mod and the community through funding? 
 Here you can donate to the F&E mod
 Every donation to our paypal is funneled back into the F&E Mod that our team is hard at work bringing to life and making better bit by bit with your help.
