@@ -82,8 +82,7 @@ littlebin
 [MarioXenobladefan614](https://www.reddit.com/user/MarioXenobladefan614)  
 *Report bugs on [Issues](https://github.com/AlexanDDOS/fae-mod/issues) or your feedback if you want to see you here*  
   
-**Sponsors:**
-
+**Sponsors:**  
 Clifford - $500 Starting funds
   
 **Special Thanks**:  
