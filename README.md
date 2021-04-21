@@ -83,6 +83,7 @@ littlebin
 *Report bugs on [Issues](https://github.com/AlexanDDOS/fae-mod/issues) or your feedback if you want to see you here*  
   
 **Sponsors:**
+
 Clifford - $500 Starting funds
   
 **Special Thanks**:  
